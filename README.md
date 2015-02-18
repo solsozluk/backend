@@ -2,6 +2,6 @@ SolSozluk.org
 ===
 Backend project of SolSozluk.org
 
-This repository provides data by API to (Frontend side)[frontend]
+This repository provides data by API to [frontend]
 
-[frontend]: https://github.com/solsozluk/backend 
+[frontend]: https://github.com/solsozluk/frontend 
